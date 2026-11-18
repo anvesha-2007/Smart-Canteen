@@ -1,0 +1,6 @@
+{
+  "name": "Smart Canteen",
+  "description": "College Canteen Pre-Ordering System with real-time order tracking, QR pickup verification, staff kitchen console, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
